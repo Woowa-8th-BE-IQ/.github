@@ -33,8 +33,8 @@
 
 ---
 
-### 📫 Connect with IQ
-본질에 대해 함께 토론하고 날카로운 질문을 주고받는 것을 즐깁니다.
+### 📫 Contact
+본질에 대한 토론과 날카로운 질문은 언제나 환영합니다.
 
 <p align="left">
   <a href="https://github.com/e9ua1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -43,6 +43,5 @@
 </p>
 
 <p align="center">
-  <i>The depth of a question determines the depth of knowledge.</i><br>
-  <b>© 2026 IQ. All rights reserved.</b>
+  <b>I Question, therefore I am.</b>
 </p>
