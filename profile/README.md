@@ -1,7 +1,7 @@
 # 💎 I Question: IQ's Woowacourse 8th BE Archive
 
 <p align="center">
-  <img src="profile/blackhole.svg" width="100%" alt="I Question Black Hole Simulation" />
+  <img src="../profile/blackhole.svg" width="100%" alt="I Question Black Hole Simulation" />
 </p>
 
 > "**지식의 홍수 속에서 개발자의 깊이를 결정짓는 것은 '답'이 아니라 '질문'입니다.**"
